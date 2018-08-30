@@ -9,3 +9,5 @@ A Minimax algorithm can be best defined as a recursive function that does the fo
 	3. call the minimax function on each available spot (recursion)
 	4. evaluate returning values from function calls
 	5. and return the best value
+	
+# RESULTS
