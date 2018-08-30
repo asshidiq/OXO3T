@@ -14,10 +14,10 @@ Algoritma Minimax dapat didefinisikan sebagai fungsi rekursif yang dapat melakuk
 
 ---	
 # RESULTS
-<div style="text-align: center;">![basic_board](https://user-images.githubusercontent.com/15196785/44844718-e3ee5a80-ac75-11e8-880e-06f9abb22885.png)</div>
+![basic_board](https://user-images.githubusercontent.com/15196785/44844718-e3ee5a80-ac75-11e8-880e-06f9abb22885.png)
 <div style="text-align: center;"> basic board </div>
 
-<div style="text-align: center;">![win](https://user-images.githubusercontent.com/15196785/44844732-ee105900-ac75-11e8-9968-04b9b033c7f9.png)</div>
+![win](https://user-images.githubusercontent.com/15196785/44844732-ee105900-ac75-11e8-9968-04b9b033c7f9.png)
 <div style="text-align: center;"> win scenario </div>
 
 ![tie](https://user-images.githubusercontent.com/15196785/44844730-eb156880-ac75-11e8-9c02-b2c7357f705b.png)
@@ -28,5 +28,5 @@ Algoritma Minimax dapat didefinisikan sebagai fungsi rekursif yang dapat melakuk
 
 ---
 ## Contributors
-- Adam Asshidiq ==> <a.asshidiq@gmail.com>
+- Adam Asshidiq => <a.asshidiq@gmail.com>
 ---
