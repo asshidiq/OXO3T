@@ -3,8 +3,7 @@
 # OXO3T
 Permainan OXO (Bulat-Silang-Bulat) atau Tic-Tac-Toe menggunakan algoritma minimax
 
-Artikel algoritma minimax ditulis oleh Ahmad Abdolsaheb (<http://abdolsa.com/>):
-https://medium.freecodecamp.org/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37
+Artikel algoritma minimax ditulis oleh [Ahmad Abdolsaheb](<http://abdolsa.com/>) dapat dilihat [disini](https://medium.freecodecamp.org/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37)
 
 Algoritma Minimax dapat didefinisikan sebagai fungsi rekursif yang dapat melakukan hal-hal berikut:
 1. mengembalikan nilai jika terminal state ditemukan (+10, 0, -10)
